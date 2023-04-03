@@ -7,10 +7,10 @@ This is my react professional portfolio indevelopment. It is still being built
 No installtion necessary
 
 # Usage
-Visit the Portfolio at:
+Visit the Portfolio at: https://taysa86.github.io/React-Portfolio/
 
 # Credit
-
+n/a
 # License
 
 MIT License
